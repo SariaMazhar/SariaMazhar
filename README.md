@@ -44,15 +44,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SariaMazhar&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-
----
-
-## 📈 Activity Review
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SariaMazhar&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
 ---
 ## 📈 Contribution Graph
 
