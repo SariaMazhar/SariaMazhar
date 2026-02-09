@@ -47,6 +47,13 @@
 
 ---
 
+## 📈 Activity Review
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SariaMazhar&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
 ## 📈 Contribution Graph
 
 <p align="center">
