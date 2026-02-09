@@ -76,21 +76,21 @@
 
 ### ⚙️ Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
 </div>
 
 ---
 
 ### 🗄 Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
 ---
 
 ### 🧰 Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </div>
 
 
