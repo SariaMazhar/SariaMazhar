@@ -53,6 +53,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SariaMazhar/SariaMazhar/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📈 Profile Stats
 
 <p align="center">
