@@ -38,6 +38,16 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SariaMazhar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SariaMazhar&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
