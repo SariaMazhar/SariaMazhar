@@ -21,6 +21,8 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -54,6 +56,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SariaMazhar&style=for-the-badge&color=blue" />
 </p>
-
-  
-
