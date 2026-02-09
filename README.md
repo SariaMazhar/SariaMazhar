@@ -21,14 +21,16 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SariaMazhar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SariaMazhar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SariaMazhar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SariaMazhar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
