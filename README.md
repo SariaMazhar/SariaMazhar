@@ -56,9 +56,6 @@
 ---
 
 ## 👀 Profile Views
----
-
-### 📈 Profile Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SariaMazhar&color=58a6ff&style=for-the-badge" alt="Profile Views" />
