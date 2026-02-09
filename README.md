@@ -52,7 +52,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SariaMazhar&style=for-the-badge&color=blue" />
 </p>
 
   
