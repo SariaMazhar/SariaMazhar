@@ -60,3 +60,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SariaMazhar&style=for-the-badge&color=blue" />
 </p>
+## 📈 GitHub Stats (Social)
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SariaMazhar?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/SariaMazhar?label=Stars&style=flat-square" />
+</p>
+
