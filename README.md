@@ -1,4 +1,13 @@
-<h1 align="center">Hey there 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Hey%20there!%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&width=700&lines=I'm+a+B.E.+CSE+(AIML)+Student;AI+%7C+ML+%7C+Data+Science;Web+Development+Enthusiast;Learning+by+Building+🚀" />
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 **B.E. Computer Science & Engineering (AIML)** student  
@@ -10,4 +19,5 @@
 - 🔭 Building **real-world, practical projects**  
 - 🤝 Open to **internships, collaborations & learning opportunities**  
 - 📍 **Mumbai, India**
+
 
