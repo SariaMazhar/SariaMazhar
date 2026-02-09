@@ -110,5 +110,9 @@
 ---
 
 <p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
