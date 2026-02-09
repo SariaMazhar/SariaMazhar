@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Saria%20Mazhar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&width=700&lines=I'm+a+B.E.+CSE+(AIML)+Student;AI+%7C+ML+%7C+Data+Science;Web+Development+Enthusiast;Learning+by+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&width=700&lines=B.E.+CSE+(AIML)+Student;AI+%7C+ML+%7C+Data+Science;Web+Development+Enthusiast;Learning+by+Building" />
 </div>
 
 ---
@@ -22,46 +21,54 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SariaMazhar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SariaMazhar&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SariaMazhar&theme=tokyonight" />
 </p>
 
-
----
-
-## 🧠 Most Used Languages
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SariaMazhar&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SariaMazhar&theme=tokyonight" />
 </p>
 
-
 ---
 
-## 👀 Profile Views
+## 📈 Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SariaMazhar&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SariaMazhar&style=for-the-badge&color=58a6ff" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SariaMazhar?style=for-the-badge&color=58a6ff&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/SariaMazhar?style=for-the-badge&color=58a6ff&logo=github" alt="Stars" />
 </p>
 
+---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saria-mazhar-a84a552ba">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sariamazhar2005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</p>
