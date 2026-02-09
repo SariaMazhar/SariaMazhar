@@ -56,14 +56,14 @@
 ---
 
 ## 👀 Profile Views
+---
+
+### 📈 Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SariaMazhar&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SariaMazhar&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SariaMazhar?style=for-the-badge&color=58a6ff&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SariaMazhar?style=for-the-badge&color=58a6ff&logo=github" alt="Stars" />
 </p>
-## 📈 GitHub Stats (Social)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SariaMazhar?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/SariaMazhar?label=Stars&style=flat-square" />
-</p>
 
