@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Hey%20there!%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Saria%20Mazhar%2&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -18,6 +18,5 @@
 - ☁️ Exploring **Cloud Computing & AWS**  
 - 🔭 Building **real-world, practical projects**  
 - 🤝 Open to **internships, collaborations & learning opportunities**  
-- 📍 **Mumbai, India**
-
+  
 
