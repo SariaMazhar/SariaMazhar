@@ -26,7 +26,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SariaMazhar&theme=tokyonight&hide_border=true" />
 </p>
----
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SariaMazhar&theme=tokyonight" />
 </p>
@@ -66,11 +65,34 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
-</p>
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</div>
+
+---
+
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi" />
+</div>
+
+---
+
+### 🗄 Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</div>
+
+---
+
+### 🧰 Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+</div>
+
 
 ---
 
