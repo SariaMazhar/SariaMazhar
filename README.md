@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
+## 🚀 About Me
 
-<!--
-**SariaMazhar/SariaMazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **B.E. Computer Science & Engineering (AIML)** student  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
+- 🌐 Interested in **Web Development & Full-Stack Projects**  
+- 🛠️ **Python, Java, SQL, JavaScript, HTML, CSS**  
+- 📊 Learning **Machine Learning, Deep Learning & Data Analysis**  
+- ☁️ Exploring **Cloud Computing & AWS**  
+- 🔭 Building **real-world, practical projects**  
+- 🤝 Open to **internships, collaborations & learning opportunities**  
+- 📍 **Mumbai, India**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
